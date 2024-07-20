@@ -26,4 +26,7 @@ The Emotion Detector is a desktop application that uses a Convolutional Neural N
 ### PIL (Python Imaging Library)
 - For handling image files.
 
+- ![Screenshot 2024-07-20 134556](https://github.com/user-attachments/assets/ee80c3e4-6beb-4584-8a18-d2cdbfa93cfd)
+
+
 
