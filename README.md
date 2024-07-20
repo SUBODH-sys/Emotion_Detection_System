@@ -4,8 +4,17 @@ The Emotion Detector is a desktop application that uses a Convolutional Neural N
 
 *dataset link: https://www.kaggle.com/datasets/msambare/fer2013
 
-**Features**
--Image Upload: Users can upload an image from their local device. 
--Emotion Prediction: The application predicts the emotion displayed in the uploaded image using a pre-trained CNN model. 
--User-Friendly Interface: A clean and intuitive desktop interface built with Tkinter. 
--Emotion Examples: Displays examples of different emotions below the main interface for reference.
+## Features
+
+### Image Upload
+- Users can upload an image from their local device.
+
+### Emotion Prediction
+- The application predicts the emotion displayed in the uploaded image using a pre-trained CNN model.
+
+### User-Friendly Interface
+- A clean and intuitive desktop interface built with Tkinter.
+
+### Emotion Examples
+- Displays examples of different emotions below the main interface for reference.
+
